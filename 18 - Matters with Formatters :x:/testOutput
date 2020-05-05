@@ -1,0 +1,99 @@
+
+Warning: Undefined variable $rank in /home/desktop7/Descargas/tuenti2020/cha18/cha18.php on line 337
+string(3) "[@,"
+int(1)
+string(1) "@"
+-----
+
+Warning: Undefined variable $rank in /home/desktop7/Descargas/tuenti2020/cha18/cha18.php on line 337
+string(6) "[,,[]@"
+int(4)
+string(1) "]"
+-----
+
+Warning: Undefined variable $rank in /home/desktop7/Descargas/tuenti2020/cha18/cha18.php on line 337
+string(7) "[,,[,@,"
+int(5)
+string(1) "@"
+-----
+
+Warning: Undefined variable $rank in /home/desktop7/Descargas/tuenti2020/cha18/cha18.php on line 337
+string(10) "[,,[,,,,a["
+int(8)
+string(1) "a"
+-----
+
+Warning: Undefined variable $rank in /home/desktop7/Descargas/tuenti2020/cha18/cha18.php on line 337
+string(14) "[,,[,,,,,[],],"
+int(12)
+string(1) "]"
+-----
+
+Warning: Undefined variable $rank in /home/desktop7/Descargas/tuenti2020/cha18/cha18.php on line 337
+string(16) "[,,[,,,,,[],,,],"
+int(14)
+string(1) "]"
+-----
+
+Warning: Undefined variable $rank in /home/desktop7/Descargas/tuenti2020/cha18/cha18.php on line 337
+string(18) "[,,[,,,,,[],,,,,@,"
+int(16)
+string(1) "@"
+-----
+
+Warning: Undefined variable $rank in /home/desktop7/Descargas/tuenti2020/cha18/cha18.php on line 337
+string(23) "[,,[,,,,,[],,,,,,,a,[@,"
+int(21)
+string(1) "@"
+-----
+
+Warning: Undefined variable $rank in /home/desktop7/Descargas/tuenti2020/cha18/cha18.php on line 337
+string(25) "[,,[,,,,,[],,,,,,,a,[,,@]"
+int(23)
+string(1) "@"
+-----
+
+Warning: Undefined variable $rank in /home/desktop7/Descargas/tuenti2020/cha18/cha18.php on line 337
+string(26) "[,,[,,,,,[],,,,,,,a,[,,,]["
+int(24)
+string(1) "]"
+-----
+
+Warning: Undefined variable $rank in /home/desktop7/Descargas/tuenti2020/cha18/cha18.php on line 337
+string(29) "[,,[,,,,,[],,,,,,,a,[,,,,[,@,"
+int(27)
+string(1) "@"
+-----
+
+Warning: Undefined variable $rank in /home/desktop7/Descargas/tuenti2020/cha18/cha18.php on line 337
+string(32) "[,,[,,,,,[],,,,,,,a,[,,,,[,,,]@,"
+int(30)
+string(1) "@"
+-----
+
+Warning: Undefined variable $rank in /home/desktop7/Descargas/tuenti2020/cha18/cha18.php on line 337
+string(37) "[,,[,,,,,[],,,,,,,a,[,,,,[,,,],,,,,@,"
+int(35)
+string(1) "@"
+-----
+
+Warning: Undefined variable $rank in /home/desktop7/Descargas/tuenti2020/cha18/cha18.php on line 337
+string(40) "[,,[,,,,,[],,,,,,,a,[,,,,[,,,],,,,,,,[]a"
+int(38)
+string(1) "]"
+-----
+
+Warning: Undefined variable $rank in /home/desktop7/Descargas/tuenti2020/cha18/cha18.php on line 337
+string(42) "[,,[,,,,,[],,,,,,,a,[,,,,[,,,],,,,,,,[,a]a"
+int(40)
+string(1) "]"
+-----
+
+Warning: Undefined variable $rank in /home/desktop7/Descargas/tuenti2020/cha18/cha18.php on line 337
+string(44) "[,,[,,,,,[],,,,,,,a,[,,,,[,,,],,,,,,,[,a,aa["
+int(42)
+string(1) "a"
+-----
+string(45) "[,,[,,,,,[],,,,,,,a,[,,,,[,,,],,,,,,,[,a,a,[]"
+2
+17
